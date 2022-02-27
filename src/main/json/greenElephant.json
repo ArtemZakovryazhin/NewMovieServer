@@ -1,0 +1,14 @@
+{
+  "movie": {
+    "id": "8e2d51a3-1080-4c7d-a1cd-e8de6b424623",
+    "title": "green elephant",
+    "year": 1999,
+    "oscar": "no"
+  },
+  "director": {
+    "name": "Svetlana Baskova"
+  },
+  "actor": {
+    "name": "Vladimir Yepifantsev"
+  }
+}
